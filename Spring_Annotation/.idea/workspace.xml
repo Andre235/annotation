@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d34b36e6-0158-40c5-a90f-919e59d4d9b2" name="Default Changelist" comment="" />
+    <list default="true" id="d34b36e6-0158-40c5-a90f-919e59d4d9b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/AOP/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/AOP/LogAspects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/config/MyConfig_AOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/config/MyConfig_Autowired.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/config/MyConfig_PropertyValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/person.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/IOCTest_AOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/IOCTest_Autowired.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/IOCTest_PropertyValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Annotation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bean/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bean/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/controller/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/controller/BookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dao/BookDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dao/BookDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/service/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/IOCTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bean/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bean/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/controller/BookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/controller/BookController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dao/BookDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dao/BookDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/service/BookService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/service/BookService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ClassTest.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +41,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,13 +52,24 @@
     </option>
   </component>
   <component name="ProjectId" id="1RzkKaH68pITAOAkxU6g4vIBAxG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/person.properties" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com" />
+      <recent name="com.config" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -44,9 +83,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ClassTest.testImport">
-    <configuration name="ClassTest" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ClassTest" />
+  <component name="RunManager" selected="JUnit.IOCTest_AOP.testAutoWired">
+    <configuration name="IOCTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.IOCTest" />
       <module name="Annotation" />
       <extension name="coverage">
         <pattern>
@@ -58,7 +97,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IOCTest_AOP" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Annotation" />
       <extension name="coverage">
         <pattern>
@@ -67,14 +106,29 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com" />
-      <option name="MAIN_CLASS_NAME" value="com.ClassTest" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="MAIN_CLASS_NAME" value="com.IOCTest_AOP" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOCTest_AOP.testAutoWired" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.IOCTest_AOP" />
+      <option name="METHOD_NAME" value="testAutoWired" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IOCTest_Autowired.testAutoWired" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Annotation" />
       <extension name="coverage">
         <pattern>
@@ -83,14 +137,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com" />
-      <option name="MAIN_CLASS_NAME" value="com.ClassTest" />
-      <option name="METHOD_NAME" value="test03" />
+      <option name="MAIN_CLASS_NAME" value="com.IOCTest_Autowired" />
+      <option name="METHOD_NAME" value="testAutoWired" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassTest.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IOCTest_PropertyValue.testValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Annotation" />
       <extension name="coverage">
         <pattern>
@@ -99,14 +153,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com" />
-      <option name="MAIN_CLASS_NAME" value="com.ClassTest" />
-      <option name="METHOD_NAME" value="test04" />
+      <option name="MAIN_CLASS_NAME" value="com.IOCTest_PropertyValue" />
+      <option name="METHOD_NAME" value="testValue" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassTest.test05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IOCTest.testImport" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Annotation" />
       <extension name="coverage">
         <pattern>
@@ -115,23 +169,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com" />
-      <option name="MAIN_CLASS_NAME" value="com.ClassTest" />
-      <option name="METHOD_NAME" value="test05" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ClassTest.testImport" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Annotation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com" />
-      <option name="MAIN_CLASS_NAME" value="com.ClassTest" />
+      <option name="MAIN_CLASS_NAME" value="com.IOCTest" />
       <option name="METHOD_NAME" value="testImport" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -140,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ClassTest.testImport" />
-        <item itemvalue="JUnit.ClassTest.test05" />
-        <item itemvalue="JUnit.ClassTest.test04" />
-        <item itemvalue="JUnit.ClassTest.test03" />
-        <item itemvalue="JUnit.ClassTest.test01" />
+        <item itemvalue="JUnit.IOCTest_AOP.testAutoWired" />
+        <item itemvalue="JUnit.IOCTest_AOP" />
+        <item itemvalue="JUnit.IOCTest_Autowired.testAutoWired" />
+        <item itemvalue="JUnit.IOCTest_PropertyValue.testValue" />
+        <item itemvalue="JUnit.IOCTest.testImport" />
       </list>
     </recent_temporary>
   </component>
@@ -160,10 +198,22 @@
       <updated>1570677248934</updated>
       <workItem from="1570677250346" duration="15083000" />
       <workItem from="1570754683949" duration="4662000" />
+      <workItem from="1570773837494" duration="17203000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

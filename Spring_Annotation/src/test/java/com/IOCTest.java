@@ -15,7 +15,7 @@ import java.util.Map;
  * @date : 2019/10/10 11:58
  * @description :
  */
-public class ClassTest {
+public class IOCTest {
 
     private AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(MyConfig2.class);
 
