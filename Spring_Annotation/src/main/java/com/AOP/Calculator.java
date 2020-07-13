@@ -9,6 +9,7 @@ public class Calculator {
 
     public int division(int i,int j){
         System.out.println("div方法被调用.....");
+        System.out.println("test");
         return i/j;
     }
 

@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d34b36e6-0158-40c5-a90f-919e59d4d9b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/AOP/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/AOP/LogAspects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/config/MyConfig_AOP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/config/MyConfig_Autowired.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/config/MyConfig_PropertyValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/person.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/IOCTest_AOP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/IOCTest_Autowired.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/IOCTest_PropertyValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Annotation.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bean/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bean/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/controller/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/controller/BookController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dao/BookDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dao/BookDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/service/BookService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/ClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/IOCTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bean/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bean/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/controller/BookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/controller/BookController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dao/BookDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dao/BookDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/service/BookService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/service/BookService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ClassTest.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +36,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/person.properties" />
+    <property name="last_opened_file_path" value="F:/project/kams-backend" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -198,8 +175,17 @@
       <updated>1570677248934</updated>
       <workItem from="1570677250346" duration="15083000" />
       <workItem from="1570754683949" duration="4662000" />
-      <workItem from="1570773837494" duration="17203000" />
+      <workItem from="1570773837494" duration="17589000" />
+      <workItem from="1570841474753" duration="2202000" />
     </task>
+    <task id="LOCAL-00001" summary="2019年10月11日19:26:49&#10;最后一个案例：完成AOP面向切面编程">
+      <created>1570793244883</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570793244883</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,10 +196,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2019年10月11日19:26:49&#10;最后一个案例：完成AOP面向切面编程" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019年10月11日19:26:49&#10;最后一个案例：完成AOP面向切面编程" />
   </component>
 </project>
